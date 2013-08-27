@@ -1,0 +1,1 @@
+/home/kevin/Work/Programing/C_Cpp/ErrorLocation/hello.c:5
